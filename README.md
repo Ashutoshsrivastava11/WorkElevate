@@ -46,29 +46,47 @@ Custom styles for a clean and appealing design.
 **Backend Files**
 
 src/main/java/com/jobboard/controller/AuthController.java
+
 src/main/java/com/jobboard/model/User.java
+
 src/main/java/com/jobboard/repository/UserRepository.java
+
 src/main/java/com/jobboard/service/AuthService.java
+
 src/main/java/com/jobboard/config/WebSecurityConfig.java
+
 src/main/resources/application.properties
+
 src/main/resources/schema.sql
+
 src/main/resources/data.sql
 
 **Frontend Files**
 
 src/components/JobList.jsx
+
 src/components/JobDetail.jsx
+
 src/components/UserProfile.jsx
+
 src/pages/Home.jsx
+
 src/pages/Login.jsx
+
 src/pages/JobPostings.jsx
+
 src/styles/styles.css
+
 src/App.jsx
+
 src/index.jsx
+
 src/serviceWorker.js
+
 package.json
 
 **Public Files**
 
 public/index.html
+
 public/favicon.ico
